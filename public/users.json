@@ -1,0 +1,16 @@
+{
+  "users": [
+    {
+      "name": "Bob Smith",
+      "age": 40
+    },
+    {
+      "name": "Will Smith",
+      "age": 50
+    },
+    {
+      "name": "Thomas Smith",
+      "age": 60
+    }
+  ]
+}
